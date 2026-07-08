@@ -43,7 +43,7 @@ The objective of this project is to automate the deployment of a Flask Hospital 
 ### 5. Created Docker Hub Repository
 Repository Name:
 ```
-savitha0209/flask-hospital-app
+venky2401/flask-hospital-app
 ```
 
 ### 6. Configured Jenkins Pipeline
